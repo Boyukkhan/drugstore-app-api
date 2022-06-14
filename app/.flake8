@@ -1,3 +1,2 @@
 [flake8]
 exclude = migrations,__pycache__,manage.py,settings.py
->>>>>>> c9407cdabd21cd69ff40f69c60dfad60a0cb785b
