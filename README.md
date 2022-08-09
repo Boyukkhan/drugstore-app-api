@@ -1,2 +1,2 @@
-# recipe-app-api
-Recipe API project
+# drugstore-app-api
+
